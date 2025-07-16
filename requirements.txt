@@ -1,0 +1,8 @@
+azure-identity
+azure-digitaltwins-core
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit  # or dash if you prefer
+jupyter
